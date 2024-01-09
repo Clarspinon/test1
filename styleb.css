@@ -1,0 +1,64 @@
+
+html{
+	margin: 0;
+	padding: 0;
+	background-attachment: scroll, local;
+	background-color:black;
+
+}
+body {
+	margin: 0;
+	padding: 0;
+
+}
+p{
+		font-size:17px;
+		color: white;
+		margin-left:30px;
+}
+h1{
+	color: white;
+	font-size:20px;
+	text-align: center;
+
+}
+
+h5{
+	color:#6DA47A;
+	font-size:18px;
+}
+
+a{
+	color:white;
+	text-decoration:none;
+	padding: 5px;
+	font-size: 20px;
+}
+nav{
+	position:absolute;
+}
+
+
+.text {
+	
+	font-size:20px;
+}
+
+.header
+{
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+}
+
+
+
+.slide-container {
+  max-width: 800px;
+  position: static;:
+  margin: auto;
+}
+
+img{
+	width: 100%;
+}

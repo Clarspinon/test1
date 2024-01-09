@@ -1,0 +1,124 @@
+html{
+	margin: 0;
+	padding: 0;
+	background-attachment: scroll;
+	background-color: black;
+
+
+}
+body {
+	margin: 0;
+	padding: 0;
+
+}
+
+.draw{
+	border-width: 10 px;
+	border-color: black;
+}
+
+.parametre{
+	position: absolute;
+}
+
+
+.text {
+	padding:20px;
+	font-size:20px;
+}
+
+.header
+{
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+}
+
+.page-container{
+background-color:skyblue;
+position: absolute;
+bottom: 0px;
+right:0px;
+left:0px;
+top:42.2px;
+}
+
+
+p
+{
+		font-size:17px;
+		color: #0C94AC;
+		margin-left:30px;
+	}
+h1{
+	color: white;
+	font-size:20px;
+	text-align: center;
+
+}
+h2
+{
+	font-size:17px;
+	color:#F3D7CC;
+	text-align: center;
+}
+h3
+{
+	margin-right: 22 px;
+	color:#BB9887;
+	font-size:20px;
+	text-align: center;
+}
+
+.v{
+	border-color: white;
+	background-color: white;
+	border:solid;
+}
+
+.som
+{
+	padding:5px;
+	margin-top:-5px;
+}
+h4 
+{
+	font-size:20px ;
+	color:#BB9887;
+}
+ul
+{
+	color: #0C94AC;
+}
+h5
+{
+	color:#BB9887;
+	font-size:18px;
+}
+
+a{
+	color:white;
+	text-decoration:none;
+	padding: 5px;
+	font-size: 20px;
+}
+nav{
+	position:absolute;
+}
+
+
+
+
+img{
+	position:relative;
+	width: 100%;
+	z-index: 1;
+}
+
+
+
+#canvas_draw {
+	position: relative;
+	margin-left: 29%;
+	background-color: white;
+}
